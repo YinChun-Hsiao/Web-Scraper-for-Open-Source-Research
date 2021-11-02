@@ -75,7 +75,7 @@ for x in q:
 
 # sys.exit(0)
 #%% build folder to store news
-folder = 'C:/Project/selenium/news/'
+folder = '/Users/yinchunhsiao/Selenium/news/'
 try:
     os.mkdir(folder)
 except:
